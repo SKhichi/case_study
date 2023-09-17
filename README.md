@@ -18,3 +18,9 @@ Expected Output:
 3)	Input data sources and output should be config driven
 4)	Code should be strictly developed using Data Frame APIs (Do not use Spark SQL)
 5)	Share the entire project as zip or link to project in GitHub repo.
+
+Project Index:
+1) Main Code File - main.py
+2) Config File - my_config.yaml
+3) Utils File - my_utils.py
+4) directory - cd C:\Users\admin\case_study
